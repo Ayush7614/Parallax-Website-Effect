@@ -1,0 +1,60 @@
+body
+{
+    margin: 0;
+    padding: 0;
+}
+
+.box1{
+    height: 100vh;
+    width: 100%;
+    background-image: url(C:/Users/Hp/Downloads/yellowstone-national-park-1581879_1920.jpg);
+    background-size: cover;
+    background-position: center;
+    display: table;
+    background-attachment: fixed;
+}
+
+.box2{
+    height: 100vh;
+    width: 100%;
+    background-image: url(C:/Users/Hp/Downloads/spring-bird-2295431_1920.jpg);
+    background-size: cover;
+    background-position: center;
+    display: table;
+    background-attachment: fixed;
+
+
+}
+
+.box3{
+    height: 100vh;
+    width: 100%;
+    background-image: url(C:/Users/Hp/Downloads/butterfly-1127666_1920.jpg);
+    background-size: cover;
+    background-position: center;
+    display: table;
+    background-attachment: fixed;
+
+
+}
+.box4{
+    height: 100vh;
+    width: 100%;
+    background-image: url(C:/Users/Hp/Downloads/bird-1045954_1920.jpg);
+    background-size: cover;
+    background-position: center;
+    display: table;
+    background-attachment: fixed;
+
+
+}
+
+h1{
+    font-family: sans-serif;
+    font-size: 48px;
+    color: #fff;
+    margin: 0px;
+    text-align: center;
+    display: table-cell;
+    vertical-align: middle;
+}
